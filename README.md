@@ -29,3 +29,7 @@ This project contains a collection of **basic Java programs** implemented using 
 - 📌 Functions and methods  
 - 📌 Arrays  
 - 📌 Basic object-oriented concepts (Classes and Objects)
+
+## 📝 License
+
+This project was developed for educational purposes and is not intended for commercial deployment without further development.
